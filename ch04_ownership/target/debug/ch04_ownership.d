@@ -1,0 +1,1 @@
+/Users/driptaroopdas/Documents/workspaces/rust/the_book/ch04_ownership/target/debug/ch04_ownership: /Users/driptaroopdas/Documents/workspaces/rust/the_book/ch04_ownership/src/main.rs /Users/driptaroopdas/Documents/workspaces/rust/the_book/ch04_ownership/src/references.rs /Users/driptaroopdas/Documents/workspaces/rust/the_book/ch04_ownership/src/slices.rs
